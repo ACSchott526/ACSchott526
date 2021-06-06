@@ -10,6 +10,8 @@ This profile is used primarily to house the various LolByte repos. LolByte is a 
 - [Desktop App](https://github.com/ACSchott526/lolbyte-electron)
 
 ## History
+### Summary
+
 I created LolByte in 2014 because I wanted to try building a Chrome extension for fun. Riot had just released the first version of their API and I noticed there weren't any good League of Legends web extensions. This was my first attempt at building a fully functional end to end app from scratch. LolByte has gone through various iterations and I've used the project as an opportunity to learn and apply new technologies over the years. What started as a vanilla HTML/JS/CSS + PHP/Apache app has evolved into a React + Kotlin/Kubernetes app in the 6 years I have been maintaining the project.
 
 ### LolByte Evolution
