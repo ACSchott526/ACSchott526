@@ -23,7 +23,9 @@ Originally called "LolMatches", I was basically just winging the UI and came up 
 
 #### Version 2 (~2014)
 
-This was the first production version of LolByte. In contrast to the first version, this UI was designed by an artist and emulated the look and feel of the League client at the time. I posted it on Reddit and gained ~3000 users: https://www.reddit.com/r/leagueoflegends/comments/2irv1x/introducing_lolbyte_a_fully_featured_and_free/ The backend initially used PHP running on Apache web server. I eventually rebuilt the backend with Java running on Tomcat a year or so later.
+This was the first production version of LolByte. In contrast to the first version, this UI was designed by an artist and emulated the look and feel of the League client at the time. I posted it on Reddit and gained ~3000 users: https://www.reddit.com/r/leagueoflegends/comments/2irv1x/introducing_lolbyte_a_fully_featured_and_free/
+
+The backend initially used PHP running on Apache web server. I eventually rebuilt the backend with Java running on Tomcat a year or so later.
 
 <img src="https://user-images.githubusercontent.com/5995446/120909621-9c1d6e80-c62b-11eb-82a6-ec4a15bba11b.JPG" alt="lolbyte2" width="400"/>
 
