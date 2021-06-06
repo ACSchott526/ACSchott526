@@ -37,6 +37,14 @@ After a couple years of success with LolByte, it felt like it was time to revamp
 
 #### Version 4 (~2020)
 
-After many years of running LolByte, I felt it was really time to modernize the frontend and backend and apply all the things I had learned up to that point. This iteration introduced a lot of challenges. It was my first attempt at making a mobile app. I opted to use React native so that I could seamlessly deploy to iOS or Android and give myself and excuse to learn React. In 2021, I completely revamped the backend into a much more streamlined service. I built it in Kotlin using Spring Boot and set up the deployment in the managed Kubernetes service on Digital Ocean. In contrast to previous versions, this setup requires almost not maintenance at all which is great!
+After many years of running LolByte, I felt it was really time to modernize the frontend and backend and apply all the things I had learned up to that point. This iteration introduced a lot of challenges. It was my first attempt at making a mobile app. I opted to use React native so that I could seamlessly deploy to iOS or Android and give myself an excuse to learn React. In 2021, I completely revamped the backend into a much more streamlined service. I built it in Kotlin using Spring Boot and set up the deployment in the managed Kubernetes service on Digital Ocean. In contrast to previous versions, this setup requires almost no maintenance at all which is great!
 
 <img src="https://user-images.githubusercontent.com/5995446/120909626-a2abe600-c62b-11eb-8bcc-00a2738c99ca.JPG" alt="lolbyte4" width="350"/>
+
+### Future
+
+LolByte is the side project that keeps on giving. I imagine as the years go by I will continue to update it in order to learn new tools and technologies. If you want to give LolByte a shot, just search for it in whatever app store you'd like.
+
+### Feedback
+
+Feel to to email me at crxlolbyte@gmail for any feedback, comments or questions!
