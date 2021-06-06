@@ -1,6 +1,6 @@
 ### Howdy 🤠
 
-This profile is used primarily to house the various LolByte repos. LolByte is a suite of applications including: browser extensions, desktop and iOS/Android mobile apps.
+This profile is used primarily to house the various LolByte repos. LolByte is a suite of applications including: browser extensions, desktop and iOS/Android apps.
 
 ## Links to Repos
 
