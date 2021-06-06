@@ -17,7 +17,7 @@ I created LolByte in 2014 because I wanted to try building a Chrome extension fo
 ### LolByte Evolution
 #### Version 1
 
-Originally called "LolMatches", I was basically just winging the UI and came up with this very basic look. It had such limited funcionality that I actually included links out to LolNexus and LolKing. However, it was a full functioning app that talked to the Riot API so I was happy with it!
+Originally called "LolMatches", I was basically just winging the UI and came up with this very basic look. It had such limited functionality that I actually included links out to LolNexus and LolKing. However, it was a full functioning app that talked to the Riot API so I was happy with it!
 
 <img src="https://user-images.githubusercontent.com/5995446/120909611-8c058f00-c62b-11eb-8c51-f11c629ffdf2.JPG" alt="lolbyte1" width="400"/>
 
