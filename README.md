@@ -42,8 +42,8 @@ After a couple years of success with LolByte, it felt like it was time to revamp
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5995446/120940480-61badc80-c6d2-11eb-8c12-0e94cab3a269.png" alt="lolbyte3a" width="400"/>
-  <img src="https://user-images.githubusercontent.com/5995446/120940484-641d3680-c6d2-11eb-9ed5-f168c8e8ebe3.png" alt="lolbyte3b" width="400"/>
-  <img src="https://user-images.githubusercontent.com/5995446/120940486-654e6380-c6d2-11eb-9deb-22d87efa8ba8.png" alt="lolbyte3c" width="400"/>
+  <img src="https://user-images.githubusercontent.com/5995446/121127280-62409980-c7de-11eb-9a39-5641525c6f84.JPG" alt="lolbyte3b" width="400"/>
+  <img src="https://user-images.githubusercontent.com/5995446/121127283-62409980-c7de-11eb-9f6d-ad2348bdbd55.JPG" alt="lolbyte3c" width="400"/>
 </p>
 
 #### Version 4 (~2020)
