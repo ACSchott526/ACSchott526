@@ -4,10 +4,10 @@ This profile is used primarily to house the various LolByte repos. LolByte is a 
 
 ## Links to Repos
 
-- [Web Extension](https://github.com/ACSchott526/lolbyte)
-- [Backend Service](https://github.com/ACSchott526/lolbyte-service)
-- [Mobile App](https://github.com/ACSchott526/lolbyte-react-native)
-- [Desktop App](https://github.com/ACSchott526/lolbyte-electron)
+- [Web Extension](https://github.com/lolbyte-code/lolbyte)
+- [Backend Service](https://github.com/lolbyte-code/lolbyte-service)
+- [Mobile App](https://github.com/lolbyte-code/lolbyte-react-native)
+- [Desktop App](https://github.com/lolbyte-code/lolbyte-electron)
 
 ## History
 ### Summary
