@@ -63,4 +63,4 @@ LolByte is the side project that keeps on giving. I imagine as the years go by I
 
 ### Feedback
 
-Feel to to email me at crxlolbyte@gmail for any feedback, comments or questions!
+Feel free to email me at crxlolbyte@gmail for any feedback, comments or questions!
