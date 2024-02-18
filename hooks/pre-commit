@@ -1,0 +1,31 @@
+#!/bin/sh
+
+git stash -q --keep-index
+
+echo "📝 Running ktlintCheck..."
+
+./gradlew ktlintCheck --daemon
+
+RESULT=$?
+
+if [ "$RESULT" = 0 ] ; then
+    echo "✅ ktlintCheck successful."
+else
+    git stash pop -q
+    echo 1>&2 "🚨 ktlintCheck detected violations!"
+    exit 1
+fi
+
+echo "📝 Running tests..."
+
+./gradlew test --daemon
+
+RESULT=$?
+
+if [ "$RESULT" = 0 ] ; then
+    echo "✅ Tests successful."
+else
+    git stash pop -q
+    echo 1>&2 "🚨 Tests failed!"
+    exit 1
+fi
