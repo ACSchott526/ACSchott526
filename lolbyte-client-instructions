@@ -1,0 +1,11 @@
+Chrome / Firefox Extensions
+- Bump version, run `lb-build` and upload to each portal.
+
+Electron
+- `lb-electron` to copy files from main repo, bump version, `npm start` to test and `npm run dist` to create executables (for each OS).
+- Use git-bash in Windows
+
+Mobile
+- `yarn bundle-ios` to create assets file for IOS, `yarn bundle-android` to create assets file for Android.
+- XCode bump version, clean build folder and archive.
+- Android Studio, run gradle task to build signed APK.
