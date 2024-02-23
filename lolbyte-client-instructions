@@ -8,4 +8,4 @@ Electron
 Mobile
 - `yarn bundle-ios` to create assets file for IOS, `yarn bundle-android` to create assets file for Android.
 - XCode bump version, clean build folder and archive.
-- Android Studio, run gradle task to build signed APK.
+- Android Studio, bump version, run gradle task to build signed APK.
